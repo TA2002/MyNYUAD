@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "book.arreferenceimage"
+    },
+    {
+      "filename" : "dorm_student.arreferenceimage"
+    },
+    {
+      "filename" : "escape.arreferenceimage"
+    },
+    {
+      "filename" : "event_poster.arreferenceimage"
+    },
+    {
+      "filename" : "flu_poster.arreferenceimage"
+    },
+    {
+      "filename" : "wood.arreferenceimage"
+    }
+  ]
+}

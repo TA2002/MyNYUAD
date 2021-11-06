@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "event_poster.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 2
+  }
+}
